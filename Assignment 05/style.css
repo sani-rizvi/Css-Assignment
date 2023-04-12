@@ -1,0 +1,80 @@
+body {
+    background-color: #000;
+} 
+h1 {
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0px;
+}
+div {
+    display: inline-block;
+    margin: 20px;
+}
+.button {
+    background-color: #fff;
+}
+.uber {
+    font-size: inherit; 
+    border: none;
+    justify-content: center;
+    color: #fff;
+    background-color: black;
+    margin: 10px 15px ;
+    padding: 14px 25px ;
+}
+
+.amazon {
+    background-color: rgb(255,216,20 );
+    border: none;
+    border-radius: 25px;
+    margin: 10px 15px ;
+    padding: 10px 30px;
+    width: 250px;
+    height: auto;
+    font-size: inherit;
+}
+
+.github {
+    background-color: rgb(46,164,79);
+    color: #fff;
+    padding: 12px 23px;
+    margin: 10px 15px ;
+    border: none;
+    border-radius: 5px;
+    width: 110px;
+    font-size: inherit;
+}
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: #fff;
+    padding: 12px 25px;
+    margin: 0px 0px 0px 25px;
+    font-size: inherit;
+    border-radius: 4px;
+
+}
+.bootstrap2 {
+    color: rgb(108, 177, 125);
+    background-color:#fff;
+    border: 1px solid  rgb(121, 82, 179);
+    margin: 10px 25px 10px 5px ;
+}
+.linkedin {
+    background-color: rgb(10,102,194);
+    color: #fff;
+    padding: 10px 15px;
+    margin-left:25px ;
+    border-radius: 25px;
+    font-size: inherit;
+    width: 250px;
+}
+.linkedin2 {
+    background-color: #fff;
+    color: rgb(10,102,194);
+    border: 1px solid rgb(10,102,194) ;
+    margin: 10px 25px 10px 0px;
+    padding: 10px 20px;
+    width: auto;
+    
+}
