@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+p {
+            color: green;
+}
+.important {
+    font-size: 18px;
+}
+#intro {
+    font-weight: bold;
+}
