@@ -11,6 +11,11 @@ div {
     display: inline-block;
     margin: 20px;
 }
+.container {
+    display: flexbox;
+    margin: 170px;
+    /* background-color: #fff; */
+}
 .button {
     background-color: #fff;
 }

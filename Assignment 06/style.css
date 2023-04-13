@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+.container {
+    background-color: #fff;
+    height: 225px;
+    width: 375px;
+    margin: 12%;
+    padding: 12px;
+}
+a {
+    color: rgb(0,113,133);
+}
+a:hover {
+    color: #40086e;
+}
+
+h3 {
+    font-weight: bolder;
+    color: rgb(0,118,0);
+}
+p {
+    font-weight: bold;
+    font-size: large;
+}
+button {
+    width: 150px;
+    margin: 6px;
+    padding: 8px;
+    border: none;
+    border-radius: 20px;
+}
+.button1 {
+    background-color: rgb(255,216,20);
+}
+.button2 {
+    background-color: rgb(255,164,28);
+}
