@@ -37,7 +37,7 @@ div {
     padding: 10px 30px;
     width: 250px;
     height: auto;
-    font-size: inherit;
+    font-weight: bold;
 }
 
 .github {
@@ -48,8 +48,9 @@ div {
     border: none;
     border-radius: 5px;
     width: 110px;
-    font-size: inherit;
+    font-weight: bold;
 }
+
 .bootstrap{
     background-color: rgb(121, 82, 179);
     color: #fff;
@@ -57,14 +58,15 @@ div {
     margin: 0px 0px 0px 25px;
     font-size: inherit;
     border-radius: 4px;
-
+    font-weight: bold;
 }
 .bootstrap2 {
-    color: rgb(108, 177, 125);
+    color: rgb(108, 117, 125);
     background-color:#fff;
     border: 1px solid  rgb(121, 82, 179);
     margin: 10px 25px 10px 5px ;
 }
+
 .linkedin {
     background-color: rgb(10,102,194);
     color: #fff;
@@ -73,6 +75,7 @@ div {
     border-radius: 25px;
     font-size: inherit;
     width: 250px;
+    font-weight: bold;
 }
 .linkedin2 {
     background-color: #fff;

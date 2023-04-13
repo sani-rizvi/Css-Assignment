@@ -29,6 +29,7 @@ button {
     padding: 8px;
     border: none;
     border-radius: 20px;
+    font-weight: bold;
 }
 .button1 {
     background-color: rgb(255,216,20);
